@@ -1,5 +1,13 @@
+
+
+
 # 💫 About Me:
 I am a Computer Science student at Cakrawala University with a strong interest in Front-End Development, Back-End Development, Database Development, and UI/UX Design.<br>I enjoy building innovative and engaging projects, especially those that challenge my problem-solving skills and logical thinking. I am particularly interested in Back-End Development, where I can explore complex logic and develop efficient systems.<br>I am always eager to learn new technologies, improve my technical skills, and turn creative ideas into meaningful digital experiences.
+
+- Animated Laptop Banner
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
+<br><br>
+
 
 
 ## 🌐 Socials:
